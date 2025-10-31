@@ -114,13 +114,14 @@ This project uses **Flutter** for several reasons:
 
 ## 📸 Screenshots
 
-*Screenshots will be added here*
+### Search Screen
+![Search Screen Light](screenshots/search_light.jpg)
+![Search Screen Dark](screenshots/search_darl.jpg)
 
-## 📝 License
+### Result Screen
+![Result Screen Light](screenshots/result_light.jpg)
+![Result Screen Dark](screenshots/result_light.jpg)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- All open-source contributors of the packages used in this project
+### Detail Screen
+![Details Screen Light](screenshots/details_light.jpg)
+![Details Screen Dark](screenshots/details_dark.jpg)
