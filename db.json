@@ -1,0 +1,246 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1990-05-12",
+      "maritalStatus": "Single",
+      "secureId": "SEC12345",
+      "addresses": [
+        {
+          "id": "1",
+          "type": "Home",
+          "street": "123 Elm Street",
+          "city": "New York",
+          "state": "NY",
+          "zipCode": "10001"
+        }
+      ],
+      "phones": [
+        { "id": "1", "type": "Mobile", "number": "9876543210", "isPrimary": true },
+        { "id": "2", "type": "Work", "number": "9123456780", "isPrimary": false }
+      ],
+      "emails": [
+        { "id": "1", "type": "Personal", "address": "john.doe@gmail.com", "isPrimary": true },
+        { "id": "2", "type": "Work", "address": "john.doe@company.com", "isPrimary": false }
+      ]
+    },
+    {
+      "id": "2",
+      "firstName": "Emily",
+      "lastName": "Smith",
+      "dateOfBirth": "1988-09-21",
+      "maritalStatus": "Married",
+      "secureId": "SEC67890",
+      "addresses": [
+        {
+          "id": "2",
+          "type": "Home",
+          "street": "456 Maple Ave",
+          "city": "Chicago",
+          "state": "IL",
+          "zipCode": "60601"
+        }
+      ],
+      "phones": [
+        { "id": "3", "type": "Mobile", "number": "9988776655", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "3", "type": "Personal", "address": "emily.smith@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "3",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "dateOfBirth": "1985-03-10",
+      "maritalStatus": "Single",
+      "secureId": "SEC54321",
+      "addresses": [
+        {
+          "id": "3",
+          "type": "Home",
+          "street": "789 Oak Road",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipCode": "94102"
+        }
+      ],
+      "phones": [
+        { "id": "4", "type": "Mobile", "number": "9001122334", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "4", "type": "Personal", "address": "michael.brown@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "4",
+      "firstName": "Sophia",
+      "lastName": "Williams",
+      "dateOfBirth": "1993-11-04",
+      "maritalStatus": "Single",
+      "secureId": "SEC77889",
+      "addresses": [
+        {
+          "id": "4",
+          "type": "Home",
+          "street": "12 Park Avenue",
+          "city": "Boston",
+          "state": "MA",
+          "zipCode": "02108"
+        }
+      ],
+      "phones": [
+        { "id": "5", "type": "Mobile", "number": "8112233445", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "5", "type": "Personal", "address": "sophia.williams@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "5",
+      "firstName": "Daniel",
+      "lastName": "Johnson",
+      "dateOfBirth": "1991-01-15",
+      "maritalStatus": "Married",
+      "secureId": "SEC99123",
+      "addresses": [
+        {
+          "id": "5",
+          "type": "Home",
+          "street": "77 Lincoln Street",
+          "city": "Seattle",
+          "state": "WA",
+          "zipCode": "98101"
+        }
+      ],
+      "phones": [
+        { "id": "6", "type": "Mobile", "number": "7223344556", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "6", "type": "Personal", "address": "daniel.johnson@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "6",
+      "firstName": "Olivia",
+      "lastName": "Davis",
+      "dateOfBirth": "1995-07-23",
+      "maritalStatus": "Single",
+      "secureId": "SEC77231",
+      "addresses": [
+        {
+          "id": "6",
+          "type": "Home",
+          "street": "89 River Road",
+          "city": "Austin",
+          "state": "TX",
+          "zipCode": "73301"
+        }
+      ],
+      "phones": [
+        { "id": "7", "type": "Mobile", "number": "9334455667", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "7", "type": "Personal", "address": "olivia.davis@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "7",
+      "firstName": "William",
+      "lastName": "Miller",
+      "dateOfBirth": "1987-02-09",
+      "maritalStatus": "Married",
+      "secureId": "SEC66442",
+      "addresses": [
+        {
+          "id": "7",
+          "type": "Home",
+          "street": "321 Lake Street",
+          "city": "Denver",
+          "state": "CO",
+          "zipCode": "80202"
+        }
+      ],
+      "phones": [
+        { "id": "8", "type": "Mobile", "number": "8556677889", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "8", "type": "Personal", "address": "william.miller@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "8",
+      "firstName": "Ava",
+      "lastName": "Martinez",
+      "dateOfBirth": "1996-12-19",
+      "maritalStatus": "Single",
+      "secureId": "SEC11881",
+      "addresses": [
+        {
+          "id": "8",
+          "type": "Home",
+          "street": "900 Pine Street",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zipCode": "90001"
+        }
+      ],
+      "phones": [
+        { "id": "9", "type": "Mobile", "number": "9775566880", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "9", "type": "Personal", "address": "ava.martinez@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "9",
+      "firstName": "James",
+      "lastName": "Anderson",
+      "dateOfBirth": "1989-06-27",
+      "maritalStatus": "Married",
+      "secureId": "SEC22772",
+      "addresses": [
+        {
+          "id": "9",
+          "type": "Home",
+          "street": "17 Forest Lane",
+          "city": "Atlanta",
+          "state": "GA",
+          "zipCode": "30301"
+        }
+      ],
+      "phones": [
+        { "id": "10", "type": "Mobile", "number": "9223344550", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "10", "type": "Personal", "address": "james.anderson@gmail.com", "isPrimary": true }
+      ]
+    },
+    {
+      "id": "10",
+      "firstName": "Charlotte",
+      "lastName": "Taylor",
+      "dateOfBirth": "1994-10-05",
+      "maritalStatus": "Single",
+      "secureId": "SEC44551",
+      "addresses": [
+        {
+          "id": "10",
+          "type": "Home",
+          "street": "505 Ocean Blvd",
+          "city": "Miami",
+          "state": "FL",
+          "zipCode": "33101"
+        }
+      ],
+      "phones": [
+        { "id": "11", "type": "Mobile", "number": "9332266778", "isPrimary": true }
+      ],
+      "emails": [
+        { "id": "11", "type": "Personal", "address": "charlotte.taylor@gmail.com", "isPrimary": true }
+      ]
+    }
+  ]
+}
