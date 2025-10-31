@@ -41,7 +41,7 @@ A Flutter application for searching and viewing customer information with a clea
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sushil-Jeengar/Customer-Search-Mobile-Application.git
    cd customer-search-app
    ```
 
