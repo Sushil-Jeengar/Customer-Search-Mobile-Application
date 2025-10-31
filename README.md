@@ -114,14 +114,20 @@ This project uses **Flutter** for several reasons:
 
 ## 📸 Screenshots
 
-### Search Screen
-![Search Screen Light](screenshots/search_light.jpg)
-![Search Screen Dark](screenshots/search_darl.jpg)
+## 🔍 Search Screen
+<p float="left">
+  <img src="screenshots/search_light.jpg" width="250" height="500" />
+  <img src="screenshots/search_dark.jpg" width="250" height="500" />
+</p>
 
-### Result Screen
-![Result Screen Light](screenshots/result_light.jpg)
-![Result Screen Dark](screenshots/result_light.jpg)
+## 📊 Result Screen
+<p float="left">
+  <img src="screenshots/result_light.jpg" width="250" height="500" />
+  <img src="screenshots/result_dark.jpg" width="250" height="500" />
+</p>
 
-### Detail Screen
-![Details Screen Light](screenshots/details_light.jpg)
-![Details Screen Dark](screenshots/details_dark.jpg)
+## 📄 Detail Screen
+<p float="left">
+  <img src="screenshots/details_light.jpg" width="250" height="500" />
+  <img src="screenshots/details_dark.jpg" width="250" height="500" />
+</p>
